@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1752856105873" clover="3.2.0">
+  <project timestamp="1752856105873" name="All files">
+    <metrics statements="9" coveredstatements="9" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1" elements="13" coveredelements="13" complexity="0" loc="9" ncloc="9" packages="1" files="1" classes="1"/>
+    <file name="Button.tsx" path="/Users/zhishunnicoles/Developer/github-action-test/src/components/Button.tsx">
+      <metrics statements="9" coveredstatements="9" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="19" count="14" type="stmt"/>
+      <line num="20" count="14" type="stmt"/>
+      <line num="25" count="14" type="stmt"/>
+      <line num="31" count="14" type="stmt"/>
+      <line num="33" count="14" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
