@@ -25,7 +25,7 @@ function App() {
         </p>
       </div>
       <div className="card">
-        <h3>Button Examples:</h3>
+        <h2>Button Examples:</h2>
         <Button variant="primary" size="small">
           Small Primary
         </Button>
