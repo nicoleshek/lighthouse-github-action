@@ -1,5 +1,4 @@
-// eslint-disable-next-line no-undef
-module.exports = {
+ module.exports = {
   ci: {
     assert: {
       assertions: {
